@@ -8,7 +8,7 @@
 		sudo aptitude install composer
 	Windows --> https://getcomposer.org/doc/00-intro.md#installation-windows
 
-2- Per afegir el framework Dompdf, executa dins de la carpeta html2pdf:
+2- Per afegir el framework Dompdf, executa dins de la carpeta dacomo2122daw2-html2pdf:
 
 	composer require dompdf/dompdf
 
