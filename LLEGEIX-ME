@@ -1,1 +1,20 @@
-Conversió d'HTML a PDF amb Dompdf
+# Conversió d'HTML a PDF amb Dompdf
+# Autor: dacomo2122daw2
+# Data: 15-11-2021
+
+1- Requereix composer:
+	Debian Linux --> aptitude install composer
+	Windows --> https://getcomposer.org/doc/00-intro.md#installation-windows
+
+2- Per afegir el framework Dompdf, executa dins de la carpeta html2pdf:
+
+	composer require dompdf/dompdf
+
+3- Comprova que s'han creat els fitxers i carpetes:
+	
+	vendor/
+	vendor/autoload.php
+	composer.json
+
+NOTA: S'hauran creat més fitxers i carpetes	
+   
