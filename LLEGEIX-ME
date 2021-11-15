@@ -26,4 +26,5 @@ NOTA: S'hauran creat més fitxers i carpetes
 	
 	http://localhost/dacomo2122daw2-html2pdf/html2pdf.php
 
-NOTA: també pots utilitzar l'adreça IP del teu sistema o el nom del sistema
+NOTA 1: també pots utilitzar l'adreça IP del teu sistema o el nom del sistema
+NOTA 2: El fitxer convertit a PDF és index.html que es troba a la mateixa carpeta
