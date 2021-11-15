@@ -20,3 +20,10 @@
 
 NOTA: S'hauran creat més fitxers i carpetes	
    
+4- Copia dacomo2122daw2-html2pdf dins de /var/www/html
+
+5- Accedeix a l'aplicació amb el navegador:
+	
+	http://localhost/dacomo2122daw2-html2pdf/html2pdf.php
+
+NOTA: també pots utilitzar l'adreça IP del teu sistema o el nom del sistema
