@@ -3,7 +3,9 @@
 # Data: 15-11-2021
 
 1- Requereix composer:
-	Debian Linux --> aptitude install composer
+	Debian Linux -->
+		sudo aptitude update
+		sudo aptitude install composer
 	Windows --> https://getcomposer.org/doc/00-intro.md#installation-windows
 
 2- Per afegir el framework Dompdf, executa dins de la carpeta html2pdf:
